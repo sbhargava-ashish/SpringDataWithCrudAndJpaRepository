@@ -1,4 +1,4 @@
-package com.example.university.domain;
+package com.example.college.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.example.university;
+package com.example.college;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.example.university.domain.Person;
-import com.example.university.domain.Student;
-import com.example.university.repo.StudentRepository;
+import com.example.college.domain.Person;
+import com.example.college.domain.Student;
+import com.example.college.repo.StudentRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

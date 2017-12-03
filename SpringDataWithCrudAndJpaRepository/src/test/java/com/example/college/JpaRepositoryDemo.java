@@ -1,4 +1,4 @@
-package com.example.university;
+package com.example.college;
 
 import org.junit.After;
 import org.junit.Before;
@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.example.university.domain.Department;
-import com.example.university.repo.DepartmentRepository;
+import com.example.college.domain.Department;
+import com.example.college.repo.DepartmentRepository;
 
 
 @RunWith(SpringRunner.class)

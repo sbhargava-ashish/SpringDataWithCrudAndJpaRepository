@@ -1,4 +1,4 @@
-package com.example.university.domain;
+package com.example.college.domain;
 
 import java.util.ArrayList;
 import java.util.List;
